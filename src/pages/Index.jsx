@@ -6,7 +6,6 @@ import {
   ChatbotInput, 
   ChatbotFooter 
 } from "../components/chatbot";
-import "../styles/main.css";
 
 const Index = () => {
   return (
